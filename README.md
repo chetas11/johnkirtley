@@ -1,34 +1,27 @@
 <div align="center">
- <h1> Hi, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1> Hi, I'm Chetan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
 <br>
 
 <div align="center">
- <a href="https://linkedin.com/in/johnkirtley16" target="_blank">
-   <img align="center" alt="John Kirtley | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
-  <a href="https://twitter.com/johnkirtley_" target="_blank">
-    <img align="center" alt="John Kirtley | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-
-  <a href="https://dev.to/johnkirtley_" target="_blank">
-    <img align="center" alt="John Dev Profile" width="41px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
-  </a>
- </div>
+ <a href="https://www.linkedin.com/in/chetan-b-5aa977b1/" target="_blank">
+   <img align="center" alt="Chetan | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
 
 <br>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🌏 Nevada, USA </h3>
+<h3>💻 Full-Stack Developer | 🌏 Mumbai, India </h3>
 </div>
 
 ### About Me
 
-- 📊 Previous financial analyst & consultant turned developer.
-- ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
-- 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love international travel.
+- 🔭 I’m currently working in Infosys
+- 🌱 I’m currently learning Full Stack Development
+- 💬 Ask me about Front-end
+- 📫 How to reach me: cbirmole@gmail.com / https://www.linkedin.com/in/chetan-b-5aa977b1/
+- ⚡ Fun fact: love creating websites
+
 
 
 ### Frequently Used Languages and Tools 
@@ -43,7 +36,6 @@
 
 <br>
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=johnkirtley&count_private=true&show_icons=true&theme=default)
 
 
 
