@@ -5,12 +5,6 @@
 <br>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/chetan-b-5aa977b1/" target="_blank">
-   <img align="center" alt="Chetan | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-
-<br>
-
-<div align="center">
 <h3>💻 Full-Stack Developer | 🌏 Mumbai, India </h3>
 </div>
 
